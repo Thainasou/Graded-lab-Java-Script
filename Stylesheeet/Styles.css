@@ -1,0 +1,30 @@
+body {
+    color: white;
+    background-image:url(hands.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+footer{
+    color: white;
+    font-style: italic;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-image: linear-gradient(
+ to right,
+ #865452 0,
+ #cb9b51 22%, 
+ #f6e27a 45%,
+ #f6f2c0 50%,
+ #f6e27a 55%,
+ #cb9b51 78%,
+ #462523 100%
+ );
+  color:transparent;;   
+}
+
+  
